@@ -1,14 +1,12 @@
 ---
 title: "Pre-Doctoral Fellowships"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 author: "Paola Villa-Paro"
 date: "8/16/2020"
-output: revealjs::revealjs_presentation
-
+output:
+  #beamer_presentation: default
+  revealjs::revealjs_presentation: default
+knit: (function(input_file, encoding) { out_dir <- 'docs'; rmarkdown::render(input_file,
+  encoding=encoding, output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
 
 ```{r setup, include=FALSE}
@@ -82,7 +80,7 @@ knitr::include_graphics('figures/stanford predoc.jpg')
     + CV: Tener un CV alineado a los requisitos en las convocatorias
     + Transcripts: Notas del pregrado en formato pdf (si estan traducidos mejor)
     + Cover Letter: Tener un template y adaptarlo para cada convocatoria
-    + Witting Sample: Algun documento de investigación propio o coautoreado, mejor si está en inglés
+    + Writting Sample: Algun documento de investigación propio o coautoreado, mejor si está en inglés
     + Letter of Recomendation: No todos piden pero es mejor tener mapeado quién podría brindarnos estas cartas en un plazo breve (2 personas)
     + [Opcional] Toefl o GRE: He visto que algunos programas piden toefl pero no es común
 - Que te respondan que los documentos han sido recibidos y que les interesa tu perfil (no siempre responden)
@@ -171,16 +169,14 @@ knitr::include_graphics('figures/stanford predoc.jpg')
 
 ### Publicación de posiciones:
 
-- [Pre-Doctoral Memo: Narra las experiencias de un ex-RA y da recomendaciones para aprovechar el Predoc](https://drive.google.com/file/d/16eUvtahziPyBTpX_ZeyXjPck2OyinfHH/view) 
+- [Pre-Doctoral Memo](https://drive.google.com/file/d/16eUvtahziPyBTpX_ZeyXjPck2OyinfHH/view) 
 
 - [RAships collection: Alguna persona amable scrapeó las convocatorias de RAships](https://docs.google.com/spreadsheets/u/1/d/10XhdH0F84g5AyjXS6_Yru6Nw94RAk7Vsepov2ejMpNE/htmlview#)
 
-- [NBER Raships](https://www.nber.org/jobs/nonnberjobs.html)
-
-- [EconRA listing](https://twitter.com/econ_ra)
+- [NBER Raships](https://www.nber.org/jobs/nonnberjobs.html), [EconRA listing](https://twitter.com/econ_ra)
 
 - [Econjobs Perú](https://twitter.com/econ_jobs_peru)
 
 ## Contacto:
 
-- Paola Gabriela Villa-Paro : [pparo-at-princeton-dot-edu](pparo@princeton.edu),  [Twitter](https://twitter.com/paola_villaparo) ,  [Github Page](https://pvillaparo.github.io)
+- Paola Gabriela Villa-Paro : [pparo-at-princeton-dot-edu](pparo@princeton.edu),  [Twitter: @paola_villaparo](https://twitter.com/paola_villaparo) ,  [Github Page: pvillaparo.github.io](https://pvillaparo.github.io)
