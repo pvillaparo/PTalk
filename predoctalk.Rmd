@@ -32,6 +32,7 @@ knitr::include_graphics('figures/predoc_theeconomist.jpg')
 ## ¿Cual es el nivel que esperan que tengas de conocimientos de programación? 
 
 ## Postulación | ¿me podrías decir mas o menos de que tratan?
+-etapas
 
 ## ¿consideras que es mejor opción un predoc que hacer una maestría?
 
