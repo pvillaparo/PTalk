@@ -7,34 +7,35 @@ knit: (function(input_file, encoding) {
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 author: "Paola Villa"
 date: "8/16/2020"
-output: slidy_presentation
+output: 
+    ioslides_presentation:
+        theme: darkly
+        highlight: tango
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## ¿Qué es un Pre-Doctoral Fellowship?
+```{r, out.width='50%', fig.align='center', fig.cap='...'}
+knitr::include_graphics('figures/predoc_theeconomist.jpg')
+```
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## ¿hay fechas específicas? O ¿es conforme se publiquen?
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+![](https://media.giphy.com/media/xUOxf7XfmpxuSode1O/giphy.gif)
 
-## Slide with Bullets
+
+## ¿a qué partes de la aplicación le dan mas peso?
+
+## ¿Cual es el nivel que esperan que tengas de conocimientos de programación? 
+
+## Postulación | ¿me podrías decir mas o menos de que tratan?
+
+## ¿consideras que es mejor opción un predoc que hacer una maestría?
 
 - Bullet 1
 - Bullet 2
 - Bullet 3
-
-## Slide with R Output
-
-```{r cars, echo = TRUE}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
 
