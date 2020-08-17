@@ -180,3 +180,5 @@ knitr::include_graphics('figures/stanford predoc.jpg')
 ## Contacto:
 
 - Paola Gabriela Villa-Paro : [pparo-at-princeton-dot-edu](pparo@princeton.edu),  [Twitter: @paola_villaparo](https://twitter.com/paola_villaparo) ,  [Github Page: pvillaparo.github.io](https://pvillaparo.github.io)
+
+- Esta presentación está en formato pdf [acá](https://drive.google.com/file/d/1j4C7L17Ibz_IS8g8pG6ze1arXzQrueCf/view?usp=sharing)
