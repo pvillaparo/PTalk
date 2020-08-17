@@ -21,18 +21,18 @@ knitr::include_graphics('figures/predoc_theeconomist.jpg')
 
     + Los proyectos pueden estar en distintas etapas de ejecución
 
-## ¿Qué lo diferencia de un RAship estándar? (1/2)
+## ¿Qué diferencia un Predoc de un RAship estándar? (1/2)
 
-- RAship estándar (para postulantes internacionales) significa:
+- **RAship estándar (para postulantes internacionales) significa:**
 
     + Trabajar con un PI local
     + Trabajar con un PI extranjero pero desde Perú
     + No significaba necesariamente una señal para hacer el PhD (exccepto con PI extranjero)
     + Era un complemento a la maestria para postular al extranjero
 
-## ¿Qué lo diferencia de un RAship estándar? (2/2)
+## ¿Qué diferencia un Predoc de un RAship estándar? (2/2)
 
-- El Predoc es un RAship institucionalizado con una señalización más clara para el PhD
+- **El Predoc es un RAship institucionalizado es una señalización más robusta para el PhD**
 
     + Tus PIs saben que quieres hacer el PhD (tu placement es útil para ellos)
     + Desarrollas herramientas exclusivas para el Grad School
@@ -78,7 +78,7 @@ knitr::include_graphics('figures/stanford predoc.jpg')
     + CV: Tener un CV alineado a los requisitos en las convocatorias
     + Transcripts: Notas del pregrado en formato pdf (si estan traducidos mejor)
     + Cover Letter: Tener un template y adaptarlo para cada convocatoria
-    + Writting Sample: Algun documento de investigación propio o coautoreado, mejor si está en inglés
+    + Writing Sample: Algun documento de investigación propio o coautoreado, mejor si está en inglés
     + Letter of Recomendation: No todos piden pero es mejor tener mapeado quién podría brindarnos estas cartas en un plazo breve (2 personas)
     + [Opcional] Toefl o GRE: He visto que algunos programas piden toefl pero no es común
 - Que te respondan que los documentos han sido recibidos y que les interesa tu perfil (no siempre responden)
