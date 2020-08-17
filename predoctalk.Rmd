@@ -23,9 +23,7 @@ knitr::include_graphics('figures/predoc_theeconomist.jpg')
 
 ## ¿Qué lo diferencia de un RAship estándar? (1/2)
 
-Los RAships han existido desde hace mucho
-
-- Para internacionales significa :
+- RAship estándar (para postulantes internacionales) significa:
 
     + Trabajar con un PI local
     + Trabajar con un PI extranjero pero desde Perú
